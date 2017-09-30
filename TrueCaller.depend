@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1506763652 source:f:\truecaller\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<mysql.h>
+	<stdlib.h>
+
